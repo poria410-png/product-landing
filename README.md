@@ -2,7 +2,7 @@
 
 A sleek, modern, dark-mode single product landing page for "Alpha Pro X" wireless earbuds. Built with HTML5, CSS3 (Flexbox & CSS Grid), and ES6+ JavaScript.
 
-🌐 **Live Demo:** [View Live Site](https://poria410-png.github.io/product-landing/)
+🌐 **Live Demo:** https://poria410-png.github.io/product-landing/
 
 ---
 
